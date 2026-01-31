@@ -13,7 +13,7 @@ import {
   hideLoadMoreButton,
 } from './js/render-functions';
 
-const formEl = document.querySelector('.search-form');
+const formEl = document.querySelector('.form');
 const loadMoreBtn = document.querySelector('.load-more');
 
 let query = '';

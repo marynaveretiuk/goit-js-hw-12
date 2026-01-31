@@ -24,7 +24,7 @@ body {
   padding: 24px 16px;
 }
 
-.search-form {
+.form {
   display: flex;
   gap: 8px;
   justify-content: center;
